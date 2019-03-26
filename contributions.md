@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | https://github.com/joannakl/ossd_materials/pull/1    | course website    |   I fixed a typo.    |
-|     |     |     |      |
+|  6   | https://github.com/nyu-ossd-s19/riotrah-weekly/issues/3 | course website, student's blog  | pointed out wrong link  |
 |     |     |     |      |
