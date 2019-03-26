@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  2   | https://github.com/joannakl/ossd_materials/pull/1    | course website    |   I fixed a typo.    |
 |     |     |     |      |
 |     |     |     |      |
