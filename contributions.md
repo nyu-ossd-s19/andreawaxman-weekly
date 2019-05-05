@@ -27,3 +27,4 @@ Replace the first row with your contribution.
 | 9 | [Link](https://crowdin.com/profile/andreawaxman/activity) | Translations/documentation | Added Spanish translations for Material-UI Documentation |
 | 10 | [Link](https://crowdin.com/profile/andreawaxman/activity) | Translations/documentation | Added Portuguese translations for Material-UI Documentation |
 | 10 | [Link](https://marble-wood.glitch.me/) | Experimenting/learning/workshop | Changed the background ref image for a VR simulation |
+| 12 | [Link](https://github.com/mui-org/material-ui/issues/15509#issuecomment-488858633) | Issues on Material-UI | Commented on an issue we wanted to work on to see if anyone else was working on it. Got the thumbs up... |
